@@ -5,7 +5,7 @@ import data from './data';
 import SingleQuestion from './Question';
 import "./faq.css";
 function Faq() {
-  const [questions, setQuestions] = useState(data);
+  const [questions] = useState(data);
   return (
     <main>
       <div className='container'>
