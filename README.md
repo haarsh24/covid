@@ -14,11 +14,11 @@
  
  ```
  npm install
- npm run dev
+ npm run start
  
  ```
  
  
 <p align="center">
-Designed with ❤️ by <a href="https://haarsh24.github.io">Harsh</a>
+Designed with ❤️ by <a href="https://kumarharsh.netlify.app">Harsh</a>
 </p>
